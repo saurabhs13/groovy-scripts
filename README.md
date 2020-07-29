@@ -1,2 +1,2 @@
-# groovy-scripts
-Repository for useful groovy scripts.
+# hybris-utilities
+Repository for reusable utility files for Hybris.
